@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    width: 1777px;
+    height: 924px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#container {
+    width: 1243px;
+    height: 472px;
+}
+
+.heading {
+    width: 335px;
+    height: 110px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #252B42;
+}
+
+.content {
+    width: 532px;
+    height: 80px;
+    font-weight: 400;
+    font-size: 28px;
+    color: #374754;
+}
+
